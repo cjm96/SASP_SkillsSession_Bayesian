@@ -1,5 +1,7 @@
 # SASP_SkillsSession_Bayesian
 
+# Christopher J. Moore
+
 This resource was put together to accompany a 1~hour skills session titled "Introduction to Bayesian Methods". 
 
 https://grd349.github.io/SkillzSessions/#calendar
